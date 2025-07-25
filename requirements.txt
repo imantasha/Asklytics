@@ -1,0 +1,5 @@
+openai==0.28.1
+gradio>=4.15.0
+pandas
+matplotlib
+python-dotenv
